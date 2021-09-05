@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="PlayingCardList"
+  >
+    <h3>
+      Pick a card, any card!
+    </h3>
+    <div>
+      <button>
+        Add a playing card!
+      </button>
+      <button>
+        Clear All Cards
+      </button>
+    </div>
+    <div
+      class="PlayingCardList-card-area"
+    />
+  </div>
+</DocumentFragment>
+`;
